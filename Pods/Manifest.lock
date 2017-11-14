@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.4.0)
+  - SwiftChart (0.4.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - SwiftChart
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  SwiftChart: 3e7482795bdb095234bc35835cc6666c8d5ebca1
+
+PODFILE CHECKSUM: 134572d7aeedd9d6543280fb7e9d89d18efb91d1
+
+COCOAPODS: 1.3.1
